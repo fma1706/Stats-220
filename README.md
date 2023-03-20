@@ -5,8 +5,8 @@
 
 *If you are taking Stats 220 as well and wants to help each other with this course then:*
 
-* follow me [fma1706](github.com).*
+* follow me [fma1706](github.com).
 
-* check out my attempt for project 1 [stats220](https://fma1706.github.io/stats-220/)*
+* check out my attempt for project 1 [stats220](https://fma1706.github.io/stats-220/)
 
-* You won't find anything fancy here but just my work for Stats 220.*
+* You won't find anything fancy here but just my work for Stats 220.
