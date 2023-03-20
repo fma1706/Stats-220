@@ -7,6 +7,4 @@
 
 * follow me [fma1706](github.com).
 
-* check out my attempt for project 1.
-
 * You won't find anything fancy here but just my work for Stats 220.
