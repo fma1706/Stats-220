@@ -1,5 +1,5 @@
 # Stats-220
-** My name is Fusipongi Manuhaapai and this is my second Stats 220 repository.*
+**My name is Fusipongi Manuhaapai and this is my second Stats 220 repository.*
 
 *This is my second time taking Stats 220. As I said at my other repository, that I will mostly be using this for my assignments in Stats 220.**
 
